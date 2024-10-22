@@ -1,0 +1,35 @@
+body {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+header img {
+    height: 5cm;
+    width: 5cm;
+    border-radius: 50%;
+    border-style: inset;
+    border-color: white;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+.center{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+h2{
+    color:  white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
