@@ -1,7 +1,62 @@
-h1 {
-    color: white;
+body {
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
 }
-h2 {
-    color:  white;
+a {
+    color: white;
+    text-decoration: none;
+}
+header img {
+    height: 5cm;
+    width: 5cm;
+    border-radius: 50%;
+    border-style: inset;
+    border-color: white;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+h2{
+    color: red;
+}
+h3{
+    color: white;
+    font-size: 25px;
+}
+h4{
+    color: red;
+}
+h5{
+    color: white;
+    font-size: 25px;
+}
+h6{
+    color: red;
+}
+h7{
+    color: white;
+    font-size: 25px;
+}
+h8{
+    color: red;
+}
+h9{
+    color: white;
+    font-size: 25px;
 }

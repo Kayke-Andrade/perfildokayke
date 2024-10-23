@@ -12,7 +12,7 @@ header img {
     width: 5cm;
     border-radius: 50%;
     border-style: inset;
-    border-color: white;
+    border-color: black;
 }
 ul {
     display: flex;
